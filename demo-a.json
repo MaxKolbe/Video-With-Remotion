@@ -1,0 +1,6 @@
+{
+  "shots": [
+    { "text": "Wash your hands", "color": "#1e6b52", "durationInSeconds": 2 },
+    { "text": "Use soap", "color": "#8a3b12", "durationInSeconds": 2 }
+  ]
+}
